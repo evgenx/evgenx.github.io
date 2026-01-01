@@ -1,4 +1,4 @@
-👋 Hi! I'm **Evgeny Plotnikov** - fullstack programmer and software engineer.
+👋 Hi! I'm fullstack programmer and software engineer.
 
 ## 📬 Contacts
 - Email: evgeny@plotnikov.dev
