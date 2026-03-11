@@ -1,11 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-REV:2026-03-11T10:52:00Z
 N:Plotnikov;Evgeny;;;
 FN:Evgeny Plotnikov
 ORG:plotnikov.dev
-NOTE:Создание сайтов, мобильных приложений, автоматизация бизнеса
+NOTE:Создание сайтов\, мобильных приложений\, автоматизация бизнеса
 TEL;TYPE=CELL,VOICE:+996223700707
-EMAIL;INTERNET;WORK:evgeny@plotnikov.dev
-URL;WORK:https://plotnikov.dev
+EMAIL;TYPE=INTERNET,WORK:evgeny@plotnikov.dev
+URL;TYPE=WORK:https://plotnikov.dev
 END:VCARD
