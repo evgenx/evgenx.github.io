@@ -1,10 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-REV:2026-03-10T00:00:00Z
+REV:2026-03-11T10:52:00Z
 N:Plotnikov;Evgeny;;;
+FN:Evgeny Plotnikov
 ORG:plotnikov.dev
-NOTE:Ð Ð°Ð·Ñ€Ð°Ð±Ð¾Ñ‚ÐºÐ° ÑÐ°Ð¹Ñ‚Ð¾Ð², Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹, Ð°Ð²Ñ‚Ð¾Ð¼Ð
- °Ñ‚Ð¸Ð·Ð°Ñ†Ð¸Ñ Ð±Ð¸Ð·Ð½ÐµÑÐ°
+NOTE:Создание сайтов, мобильных приложений, автоматизация бизнеса
+TEL;TYPE=CELL,VOICE:+996223700707
 EMAIL;INTERNET;WORK:evgeny@plotnikov.dev
 URL;WORK:https://plotnikov.dev
 END:VCARD
