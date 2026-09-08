@@ -16,5 +16,3 @@ PHP, Vue, Flutter, AI-powered workflows. 15+ years of engineering.
 
 Plotnikov LLC
 Austin, Texas, 78731, United States
-
-© 2026 Plotnikov LLC
