@@ -8,9 +8,9 @@ PHP, Vue, Flutter, AI-powered workflows. 15+ years of engineering.
 
 ## Contact
 
-- Email: evgeny@plotnikov.dev
-- Telegram: @evgenyplotnikov
-- WhatsApp: @plotnikovllc
+- Email: [evgeny@plotnikov.dev](mailto:evgeny@plotnikov.dev)
+- Telegram: [@evgenyplotnikov](https://t.me/evgenyplotnikov)
+- WhatsApp: [+1 512 514 5285](https://wa.me/15125145285)
 
 ## Company
 
